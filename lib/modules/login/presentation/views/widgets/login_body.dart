@@ -5,7 +5,7 @@ import '../../../../../core/components/login_register_buttons.dart';
 import '../../../../../core/components/login_register_welcome_message.dart';
 import '../../../../../core/utils/app_router.dart';
 import '../../../../../core/utils/assets.dart';
-import '../../../../register/presentation/views/widgets/widgets/register_textfield.dart';
+import 'login_textfields.dart';
 import 'forget_password.dart';
 
 class LoginBody extends StatelessWidget {
